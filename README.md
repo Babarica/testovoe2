@@ -1,4 +1,12 @@
 https://github.com/Babarica/testovoe2
+Шаги
+npm install
+npm run dev
+npm run build
+npm start
+
+Бэк сделал в public который php
+а так работает на api от next
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
