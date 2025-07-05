@@ -7,6 +7,11 @@ npm start
 
 Бэк сделал в public который php
 а так работает на api от next
+
+Структура 
+src/app/page - Главна
+src/components - Компоненты
+
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
